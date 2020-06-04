@@ -21,6 +21,18 @@ I see a list of information about that item in the main area
     - birth year
 - the app should include some minimal, functional styling 
 
+## Mockups
+Empty State
+![Empty State](./public/empty-state.png)
+
+Loading Sidebar State
+![Loading Sidebar State](./public/loading-sidebar-state.png)
+
+Loading Item State
+![Loading Item State](./public/loading-detail-state.png)
+
+Filled State
+![Filled State](./public/filled-state.png)
 ### Project setup
 ```
 npm install
