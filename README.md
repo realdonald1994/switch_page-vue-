@@ -1,6 +1,6 @@
 # gs-vue-test
 
-The requirements of the test are outlined below, as well as the steps to get started. Please fork this repository and complete the test in a repository of your own.
+The requirements of the test are outlined below, as well as a set of design mockups and steps to get started in the development environment. Please fork this repository and complete the test in a repository of your own.
 
 This coding test will use the [Star Wars API](https://swapi.dev/).
 
