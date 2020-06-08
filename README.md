@@ -18,7 +18,7 @@ You will be evaluated on the following:
 5. If the code runs without errors
 
 ## Instructions
-1. Once the repo is pulled in, create a new branch off master and name it tests/[first_name-last_name]. This is where you will be implementing your solutions to the questions.
+1. Once the repo is pulled in, create a new branch off master and name it tests/[first_name-last_name]. This is where you will be implementing the small application.
 2. Read through the app requirements
 3. You may create as many folders and files as necessary, but you **MUST NOT** remove, rename or reorganize pre-existing files and folders.
 4. Once you are done, commit your changes and push the branch to the remote repository.
