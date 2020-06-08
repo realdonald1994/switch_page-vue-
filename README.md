@@ -4,6 +4,17 @@ The requirements of the test are outlined below, as well as a set of design mock
 
 This coding test will use the [Star Wars API](https://swapi.dev/).
 
+## Pre-requirements
+Node and either NPM(suggested) or Yarn must be installed on your computer, as well as Git.
+
+## Evaluation Criteria
+You will be evaluated on the following:
+1. Readability of your code
+2. Code organization
+3. Problem solving skills
+4. How well the guidelines provided were followed
+5. If the code runs without errors
+
 ## Requirements
 - As a user, I can click between 
 starships and people in the left sidebar 
