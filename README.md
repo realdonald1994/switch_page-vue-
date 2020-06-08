@@ -41,16 +41,16 @@ I see a list of information about that item in the main area
 
 ## Mockups
 Empty State
-![Empty State](./public/empty-state.png)
+![Empty State](./public/mockup-empty.png)
 
 Loading Sidebar State
-![Loading Sidebar State](./public/loading-sidebar-state.png)
+![Loading Sidebar State](./public/mockup-loading-list.png)
 
 Loading Item State
-![Loading Item State](./public/loading-detail-state.png)
+![Loading Item State](./public/mockup-loading-item.png)
 
 Filled State
-![Filled State](./public/filled-state.png)
+![Filled State](./public/mockup-selected.png)
 ### Project setup
 ```
 npm install
