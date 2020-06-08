@@ -1,4 +1,4 @@
-# Paper Vue.JS Assessment
+# PAPER Vue Assessment
 
 The requirements of the test are outlined below, as well as a set of design mockups and steps to get started in the development environment. Please fork this repository and complete the test in a repository of your own.
 
