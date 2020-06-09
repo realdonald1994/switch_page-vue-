@@ -1,16 +1,11 @@
 <template>
   <div id="app">
-    <Instructions />
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
-import Instructions from "./components/Instructions.vue";
-
 export default {
-  components: {
-    Instructions
-  },
 }
 </script>
 
