@@ -14,7 +14,7 @@ const store = new Vuex.Store({
   },
   mutations:{
     SET_ITEM(state,val){
-      state.item = val
+      state.item = val;
     }
   }
 })
